@@ -2,3 +2,4 @@ avada_kedavra : sudo rm -rf
 anapneo : rm
 apparate : cd
 brackium_emendo : sudo apt update --fix-missing && sudo apt install -f && sudo dpkg --configure -a && sudo dpkg -l | grep ^..R && sudo dpkg --purge --force-all [package-name] && sudo apt clean && sudo apt update && sudo rm /var/lib/apt/lists/lock && sudo rm /var/cache/apt/archives/lock
+Alohomora : chmod +rwx
