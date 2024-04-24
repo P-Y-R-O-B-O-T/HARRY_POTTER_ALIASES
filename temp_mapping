@@ -17,6 +17,9 @@ buffer commands
 du
 sort
 diff
+tar
+gzip
+scp
 #################################################
 buffered spells
 Aberto
@@ -62,3 +65,5 @@ Homonculus Charm : who is
 Wingardium Leviosa : mv
 revelio : find
 Appare Vestigium : cat ~/.bash_history
+porterego maxima : ufw
+portus : scp
