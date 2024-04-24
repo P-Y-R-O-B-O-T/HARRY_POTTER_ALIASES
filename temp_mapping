@@ -7,6 +7,6 @@ Alohomora : chmod +rwx
 avis : cat /dev/urandom
 erecto : mkdir -p {a,b}/{e,f,g}/{h,i,j} or simply mkdir
 scourgify : clear
-accio : find
+accio : find | wget
 apparate : ssh
 aguamenti : nc (netcat)
