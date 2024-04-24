@@ -19,7 +19,7 @@ sort
 diff
 tar
 gzip
-scp
+rsync
 #################################################
 buffered spells
 Aberto
@@ -33,7 +33,7 @@ Crinus Muto : echo "Hello, world!" | sed 's/.*/\U&/' | figlet
 Disillusionment Charm
 Disapparate
 Engorgio
-Expecto patronum : guard, rsync
+Expecto patronum : guard, rsync, ufw
 Ferula
 Fiendfyre Curse
 Finite Incantatem
