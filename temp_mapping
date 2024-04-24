@@ -25,7 +25,7 @@ bombardo : dd
 Brackium Emendo
 Capacious Extremis
 Confundo : cat /dev/urandom | base64 | rev | cut -c 1-10 | sort | uniq | head -n 5
-Conjunctivitis Curse
+Conjunctivitis Curse : screen brightness to 100 percent , print block characters, wait for 5 sec reverse changes
 Crinus Muto : echo "Hello, world!" | sed 's/.*/\U&/' | figlet
 Disillusionment Charm
 Disapparate
