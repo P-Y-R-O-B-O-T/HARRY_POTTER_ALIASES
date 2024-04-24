@@ -20,6 +20,9 @@ diff
 tar
 gzip
 rsync
+sftp
+curl
+chown
 #################################################
 buffered spells
 Aberto
@@ -67,3 +70,4 @@ revelio : find
 Appare Vestigium : cat ~/.bash_history
 porterego maxima : ufw
 portus : scp
+imperio : chmod
