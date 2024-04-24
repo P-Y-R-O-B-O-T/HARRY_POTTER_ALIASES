@@ -13,7 +13,12 @@ aguamenti : nc (netcat)
 lumos : ls
 
 #################################################
-buffered commands
+buffer commands
+du
+sort
+diff
+#################################################
+buffered spells
 Aberto
 Aparecium : strings
 bombardo : dd
@@ -26,8 +31,17 @@ Disillusionment Charm
 Disapparate
 Engorgio
 Expecto patronum : guard, rsync
+Ferula
+Fiendfyre Curse
+Finite Incantatem
+Furnunculus Curse
+Immobulus : kill
+Impedimenta
+Engorgio : touch
+Legilimens : grep
 #################################################
-
+                                                      protean charm : symlinks
+                                                      time_turner : git
 alohomora : sudo or chmod +rwx
 accio : wget
 aguamenti : nc (netcat)
@@ -39,3 +53,12 @@ Bat-Bogey Hex : lolcat
 Crucio : stress
 Diffindo : cut
 Episkey : patch
+Evanesco : rm
+Expelliarmus : kill -s 9
+Fidelius Charm : chmod 700 secret_file
+Geminio : cp
+Homenum Revelio : who
+Homonculus Charm : who is
+Wingardium Leviosa : mv
+revelio : find
+Appare Vestigium : cat ~/.bash_history
