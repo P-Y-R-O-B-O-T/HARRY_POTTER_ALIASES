@@ -6,3 +6,5 @@ Alohomora : chmod +rwx
 avis : cat /dev/urandom
 erecto : mkdir -p {a,b}/{e,f,g}/{h,i,j}
 scourgify : clear
+accio : find
+apparate : ssh
