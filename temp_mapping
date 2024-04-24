@@ -10,3 +10,4 @@ scourgify : clear
 accio : find | wget
 apparate : ssh
 aguamenti : nc (netcat)
+lumos : ls
