@@ -23,6 +23,63 @@ rsync
 sftp
 curl
 chown
+unmask
+ps
+iostat
+vmstat
+free
+useradd
+userdel
+usermod
+groupadd
+passwd
+ifconfig
+netstat
+ss
+traceroute
+dig
+nslookup
+iptables
+ip
+aptpacman
+dnf
+yum
+zypper
+flatpak
+appimage
+snap
+uname
+hostname
+uptime
+whoami
+id
+lscpu
+lsmem
+lsusb etc etc
+lsblk
+lsmod
+dmesg
+shutdown
+reboot
+systemctl
+service
+mount
+umount
+alias
+jobs
+bg
+killall
+history
+man
+screen
+watch
+tmux
+nmap
+strace
+ansible-playbook
+ansible
+docker
+nginx
 #################################################
 buffered spells
 Aberto
@@ -45,6 +102,8 @@ Immobulus : kill
 Impedimenta
 Engorgio : touch
 Legilimens : grep
+Reparifors : df
+
 #################################################
                                                       protean charm : symlinks
                                                       time_turner : git
@@ -71,3 +130,5 @@ Appare Vestigium : cat ~/.bash_history
 porterego maxima : ufw
 portus : scp
 imperio : chmod
+revelio_process : htop
+Finite Incantatum : pkill
