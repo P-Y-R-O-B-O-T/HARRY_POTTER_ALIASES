@@ -13,4 +13,29 @@ aguamenti : nc (netcat)
 lumos : ls
 
 #################################################
+buffered commands
+Aberto
+Aparecium : strings
+bombardo : dd
+Brackium Emendo
+Capacious Extremis
+Confundo : cat /dev/urandom | base64 | rev | cut -c 1-10 | sort | uniq | head -n 5
+Conjunctivitis Curse
+Crinus Muto : echo "Hello, world!" | sed 's/.*/\U&/' | figlet
+Disillusionment Charm
+Disapparate
+Engorgio
+Expecto patronum : guard, rsync
+#################################################
 
+alohomora : sudo or chmod +rwx
+accio : wget
+aguamenti : nc (netcat)
+anapneo : ping
+Apparate : ssh or cd
+Ascendio : cd
+Avis : sudo echo /dev/urandom or simple echo
+Bat-Bogey Hex : lolcat
+Crucio : stress
+Diffindo : cut
+Episkey : patch
