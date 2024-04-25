@@ -98,7 +98,6 @@ Ferula
 Fiendfyre Curse
 Finite Incantatem
 Furnunculus Curse
-Immobulus : kill
 Impedimenta
 Engorgio : touch
 Legilimens : grep
@@ -161,5 +160,12 @@ porterego maxima : ufw
 portus : scp
 imperio : chmod
 Finite Incantatum : pkill
+time_turner : git
+protean charm : symlinks
+erecto : mkdir
+scourgify : clear
+lumos : ls
+avada_kedavra : sudo rm -rf
+brackium_emendo : apt *
 
 revelio_process : htop
