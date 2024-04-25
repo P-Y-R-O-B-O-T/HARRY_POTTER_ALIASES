@@ -168,4 +168,4 @@ lumos : ls
 avada_kedavra : sudo rm -rf
 brackium_emendo : apt *
 
-revelio_process : htop
+revelio_spell : htop
