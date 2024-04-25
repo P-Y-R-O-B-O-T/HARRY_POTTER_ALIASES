@@ -25,6 +25,12 @@ Welcome 🔮, fellow 🧙 ♂️  witches ✨ and 🌟 wizards, to 📜 the ench
 
 * **🪄 The Chamber ✨ of Wonders:** In this chamber 🏰, infuse your commands 🧙‍♂️ with the spirit of Hogwarts itself - a place 🌟 where knowledge 📚, bravery 🦁, and friendship 🤝 intertwine to create something truly magical. 🎩✨ Embrace the interactive journey 🚀 of exploration 🔍 and transformation 🌀, where the boundaries 🌈 between the digital 💻 and the fantastical 🧙‍♂️ blur into one. 🔮🌟🪄🔍
 
+## Contributing 🤝
+We welcome contributions to enhance the magic of SwiftSpell! If you have ideas for new aliases, improvements, or bug fixes, we'd love to hear from you. Simply open an issue or submit a pull request, and let's make SwiftSpell even more enchanting together!
+
+## Support 🚀
+Need a guiding spell or have questions about? Don't hesitate to reach out through the issue section of this repository. Our mystical team is here to assist you on your journey through the realm of command line magic!
+
 ## INSTALLATION
 * Copy the contents of `mapping.rc` into `~/.bashrc` and then restare the `terminal`
 
