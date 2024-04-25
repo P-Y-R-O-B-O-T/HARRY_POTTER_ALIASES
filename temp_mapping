@@ -132,3 +132,34 @@ portus : scp
 imperio : chmod
 revelio_process : htop
 Finite Incantatum : pkill
+
+
+#############################################################
+final mapping
+
+alohomora : sudo
+accio : wget
+aguamenti : nc (netcat)
+anapneo : ping
+Apparate : ssh
+Ascendio : cd
+avis : echo
+Bat-Bogey Hex : lolcat
+Crucio : stress
+Diffindo : cut
+Episkey : patch
+Evanesco : rm
+Expelliarmus : kill
+Fidelius Charm : chmod 700 secret_file *
+Geminio : cp
+Homenum Revelio : who
+Homonculus Charm : who is
+Wingardium Leviosa : mv
+revelio : find
+Appare Vestigium : cat ~/.bash_history
+porterego maxima : ufw
+portus : scp
+imperio : chmod
+Finite Incantatum : pkill
+
+revelio_process : htop
