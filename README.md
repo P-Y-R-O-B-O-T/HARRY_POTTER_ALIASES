@@ -103,3 +103,6 @@ Need a guiding spell or have questions about? Don't hesitate to reach out throug
 - 🔄 **transmutare-nexus**: `rsync`
 - 🛡️ **unity-enchanter**: `snap`
 - 🔐 **verbum-custodiam**: `passwd`
+
+## License 📄
+This project is licensed under the MIT License - see the LICENSE file for details.
