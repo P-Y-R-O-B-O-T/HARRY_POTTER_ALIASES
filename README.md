@@ -24,3 +24,76 @@ Welcome 🔮, fellow 🧙 ♂️  witches ✨ and 🌟 wizards, to 📜 the ench
 * **📘 The Spellbook 📚 of Scripts and Programs:** Invoke 🪄 Accio Scriptum to summon forth your most trusted scripts 📜 and programs, allies 💪 in your quest for computational excellence. 🚀✨ Mend broken fragments 💔 with the mending charm of Reparo, stitching 🪡 together the fabric 🧵 of your digital world. 🌐🛠️🔍
 
 * **🪄 The Chamber ✨ of Wonders:** In this chamber 🏰, infuse your commands 🧙‍♂️ with the spirit of Hogwarts itself - a place 🌟 where knowledge 📚, bravery 🦁, and friendship 🤝 intertwine to create something truly magical. 🎩✨ Embrace the interactive journey 🚀 of exploration 🔍 and transformation 🌀, where the boundaries 🌈 between the digital 💻 and the fantastical 🧙‍♂️ blur into one. 🔮🌟🪄🔍
+
+## INSTALLATION
+* Copy the contents of `mapping.rc` into `~/.bashrc` and then restare the `terminal`
+
+## SUPPORTED SPELLS
+- 🔮 **swiftspell**: `alias`
+- 🔑 **accio**: `wget`
+- 💧 **aguamenti**: `nc`
+- 🚪 **alohomora**: `sudo`
+- 🫣 **anapneo**: `ping`
+- 🌐 **apparate**: `ssh`
+- 📜 **appare-vestigium**: `cat ~/.bash_history`
+- 📦 **arcane-archivist**: `pacman`
+- 📦 **archivarious-conjuratio**: `tar`
+- 🔼 **ascendio**: `cd`
+- 🐦 **avis**: `echo`
+- 🦇 **bat-boogey-hex**: `lolcat`
+- 🔗 **connexus-informatio**: `netstat`
+- 🤝 **conventus-creatus**: `groupadd`
+- ⚡ **crucio**: `stress`
+- ✂️  **diffindo**: `cut`
+- 📦 **enchanter-repository**: `apt`
+- 📦 **engorgio**: `touch`
+- 💔 **episkey**: `patch`
+- 🏗️ **erecto**: `mkdir`
+- 🌌 **evanesco**: `rm`
+- ⛔ **expelliarmus**: `kill`
+- 🚫 **finite-incantatum**: `pkill`
+- 📦 **geminio**: `cp`
+- 🔒 **guardian-portus**: `sftp`
+- 🛡️ **guardian-ward**: `iptables`
+- 🕵️ **homenum-revelio**: `who`
+- 🔍 **homonculus-revelio**: `whois`
+- 🎚️ **imperio**: `chmod`
+- 💡 **kernsight**: `dmesg`
+- 🔗 **legiliclaudis**: `lsblk`
+- 🧠 **legilicortex**: `lscpu`
+- 💾 **legilimemoria**: `lamem`
+- 🔍 **legilimens**: `grep`
+- 🧩 **legilimoduli**: `lsmod`
+- 🕸️ **linkus-insightus**: `ss`
+- 🕯️ **luminoscribe**: `whoami`
+- 🔦 **lumos**: `ls`
+- 📦 **magic-boxes**: `flatpak`
+- 🗜️ **minimus-reducto**: `gzip`
+- 🔍 **observo-animus**: `vmstat`
+- 📈 **observo-ordinem**: `iostat`
+- 🔢 **ordo**: `sort`
+- 🔍 **pathfinderium-revealo**: `traceroute`
+- 🚫 **persona-deletrix**: `userdel`
+- 🔁 **persona-mutatio**: `usermod`
+- 👤 **person-formatio**: `useradd`
+- 🔗 **portus**: `scp`
+- 🛠️ **proprietus**: `chown`
+- 🐍 **protean**: `sl`
+- 🔒 **protego-maxima**: `ufw`
+- 🌐 **realm-identifier**: `uname`
+- 🔍 **realm-revelatus**: `dig`
+- 🔍 **realmseeker**: `nslookup`
+- 🔌 **rebootus**: `reboot`
+- 🔍 **recticulum-configuro**: `ifconfig`
+- 🔍 **revelio**: `find`
+- 🔍 **revelio-spell**: `htop`
+- 📦 **runekeeper-repository**: `dnf`
+- 🧹 **scourgify**: `clear`
+- 🏰 **soluris**: `hostname`
+- 📏 **spacium-estimatum**: `du`
+- 🌐 **teleportus-webum**: `curl`
+- ⏹️  **terminus-haltus**: `shutdown`
+- ⏳ **time-turner**: `git`
+- 🔄 **transmutare-nexus**: `rsync`
+- 🛡️ **unity-enchanter**: `snap`
+- 🔐 **verbum-custodiam**: `passwd`
