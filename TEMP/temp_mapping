@@ -133,6 +133,19 @@ revelio_process : htop
 Finite Incantatum : pkill
 
 
+
+aperium: ls -a
+avada-kedavra: killall
+avensgium: find/watch
+crucio: stress
+colloportus: hyprlock/i3-lock
+incantation: man/bathelp
+amortentia: neofetch
+obliviate: free
+muffiliato: openvpn
+capacious: tar
+
+
 #############################################################
 final mapping
 
